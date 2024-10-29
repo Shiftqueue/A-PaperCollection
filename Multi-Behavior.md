@@ -1,7 +1,7 @@
 # 论文🗂️阅读仓库😆
-**会议：**SIGIR、KDD、CIKM、WSDM、IJCAI、AAAI、WWW
+**会议：**SIGIR、KDD、CIKM、WSDM、IJCAI、AAAI、WWW、ACM·MM
 
-**期刊：**TKDE、TOIS、TMM、ACM·MM
+**期刊：**TKDE、TOIS、TMM
 
 ## Paper List
 
