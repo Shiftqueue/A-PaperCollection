@@ -7,9 +7,10 @@
 
 ### 2024
 
-- `SIGIR(2024)` Behavior Pattern Mining-based Multi-Behavior Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657973)]** **[[code](https://github.com/rookitkitlee/BPMR)]**
+- `SIGIR(2024)` Behavior Pattern Mining-based Multi-Behavior Recommendation. **[Pattern Mining]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657973)]** **[[code](https://github.com/rookitkitlee/BPMR)]**
 - `SIGIR(2024)` Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657696)]** **[[code](https://github.com/MingshiYan/BIPN)]**
 - `WSDM(2024)` Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635857)]**
+- `WSDM(2024)` User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635762)]**
 - `SIGIR(2024)` A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657682)]** **[[code](https://github.com/XiaoJingC/MBASR)]**
 
 ### 2023
