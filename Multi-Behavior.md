@@ -8,14 +8,17 @@
 ### 2024
 
 - `SIGIR(2024)` Behavior Pattern Mining-based Multi-Behavior Recommendation. **[Pattern Mining]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657973)]** **[[code](https://github.com/rookitkitlee/BPMR)]**
-- `SIGIR(2024)` Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657696)]** **[[code](https://github.com/MingshiYan/BIPN)]**
+- `SIGIR(2024)` Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation. **[GCN, CF]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657696)]** **[[code](https://github.com/MingshiYan/BIPN)]**
 - `WSDM(2024)` Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635857)]**
 - `WSDM(2024)` User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635762)]**
 - `SIGIR(2024)` A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657682)]** **[[code](https://github.com/XiaoJingC/MBASR)]**
+- `WWW(2024)` Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation.**[[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645380)]**
+- `KDD(2024)` Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks.**[[PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569)]**
 
 ### 2023
 
 - `FCS(2023)`  BGNN_ Behavior-aware graph neural network for heterogeneous session-based recommendation.  **[GNN]**  **[[PDF](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=33255)]** 
+- `TMM(2023)` Contrastive Multi-Level Graph Neural Networks for Session-Based Recommendation. **[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10054473)]**
 - `WSDM(2023)`  Knowledge Enhancement for Contrastive Multi-Behavior Recommendation.  **[Contrastive Learning]**  **[[PDF](https://arxiv.org/pdf/2301.05403.pdf)]** 
 - `WWW(2023)`  Compressed Interaction Graph based Framework for Multi-behavior Recommendation.  **[GCN]**  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3583312)]**  **[[code](https://github.com/MC-CV/CIGF)]** 
 - `WWW(2023)`  Denoising and Prompt-Tuning for Multi-Behavior Recommendation.  **[GNN]**  **[[PDF](https://arxiv.org/pdf/2302.05862.pdf)]**  **[[code](https://github.com/zc-97/DPT)]** 
